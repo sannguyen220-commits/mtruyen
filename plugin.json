@@ -1,0 +1,12 @@
+{
+  "name": "MTruyen",
+  "description": "Nguồn lấy truyện từ mtruyen.io.vn",
+  "version": 1,
+  "plugins": [
+    {
+      "name": "MTruyen",
+      "author": "ChatGPT",
+      "path": "mtruyen/index.js"
+    }
+  ]
+}
